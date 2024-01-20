@@ -1,5 +1,6 @@
 # Machine-Learning-Projects
-##Black Friday Sales
+# Black Friday Sales
+
 •	The central goal of this analysis is to gain insights into this hypothetical Black Friday sales data and develop predictive models to forecast customer purchases.
 
 •	By exploring and cleaning the dataset, implementing feature engineering, and leveraging machine learning techniques, I aimed to understand the factors influencing purchase behavior and build models capable of accurate predictions.
