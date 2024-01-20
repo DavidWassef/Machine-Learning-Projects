@@ -1,4 +1,7 @@
-# Machine-Learning-Projects
+# Description
+
+•	This repository is meant to showcase various projects that implement machine learning algorithims 
+
 # Black Friday Sales
 
 •	The central goal of this analysis is to gain insights into this hypothetical Black Friday sales data and develop predictive models to forecast customer purchases.
