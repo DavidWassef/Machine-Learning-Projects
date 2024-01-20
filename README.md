@@ -10,4 +10,4 @@
 
 •	This report will detail the data cleaning process, the choice of machine learning models, their parameters, evaluation results, and conclusions drawn from the analysis.
 
-•	After testing multiple ensemble learning algorithms, I concluded that Gradient Boosting provided the most accurate prediction of customer purchases.
+•	After testing multiple ensemble learning algorithms, I concluded that Gradient Boosting Regressor provided the most accurate prediction of customer purchases.
