@@ -18,4 +18,4 @@ Predictive Modeling for Hotel Booking Cancellations
 
 •	Through data exploration and feature engineering, the project aims to uncover patterns in hotel booking data, enhancing the models' ability to make accurate predictions.
 
-•	The project will provide a detailed report, covering the data cleaning process, choice of neural network models, their configurations, evaluation metrics, and key findings from the analysis.
+•	The project provides a detailed report, covering the data cleaning process, choice of neural network models, their configurations, evaluation metrics, and key findings from the analysis.
